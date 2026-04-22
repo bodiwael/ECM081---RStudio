@@ -42,11 +42,3 @@ To correct for detected heteroskedasticity and autocorrelation, the final prefer
   * `diagnostic_normality.png`: Residual histogram and Q-Q plots.
   * `diagnostic_cusum.png`: Parameter stability testing over time.
 * `report/`: Contains the LaTeX source code (`.tex`) and the final compiled PDF report.
-
-## How to Compile the Report
-To generate the final report PDF from the LaTeX source:
-1. Ensure you have a working LaTeX distribution (e.g., TeX Live, MiKTeX) or use an online editor like Overleaf.
-2. Ensure the four plot images are located in the same directory as the `.tex` file.
-3. Compile using `pdflatex`:
-   ```bash
-   pdflatex main_report.tex
