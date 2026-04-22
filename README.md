@@ -1,6 +1,6 @@
-#Testing the Phillips Curve Relationship: Inflation and Unemployment Dynamics in the US Economy (1990–2024)
+# Testing the Phillips Curve Relationship: Inflation and Unemployment Dynamics in the US Economy (1990–2024)
 
-##Overview
+## Overview
 This project investigates the empirical validity of the Phillips Curve relationship in the United States over the period 1990 Q1 to 2024 Q4. The analysis explores the short-run trade-off between inflation and unemployment, testing the core hypothesis that unemployment exerts a negative and statistically significant effect on inflation. 
 
 The study period encompasses significant macroeconomic volatility, including the 1990–91 recession, the 2008 Global Financial Crisis (GFC), the COVID-19 shock of 2020–21, and the 2021–22 inflation surge.
